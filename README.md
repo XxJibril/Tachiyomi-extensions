@@ -1,4 +1,9 @@
-### Please give the repo a :star:
+## Guide
+
+just paste this into your anime repo 
+```
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+```
 
 | Build | Support Server |
 |-------|---------|
